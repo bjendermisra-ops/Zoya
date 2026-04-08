@@ -1,5 +1,0 @@
-{
-  "name": "Zoya AI",
-  "description": "ISKCON Spiritual Voice Assistant",
-  "requestFramePermissions": ["microphone"]
-}
