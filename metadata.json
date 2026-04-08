@@ -1,0 +1,5 @@
+{
+  "name": "Zoya AI",
+  "description": "Real-time voice-to-voice AI assistant with a strong personality, built for Dev Santosh.",
+  "requestFramePermissions": ["microphone"]
+}
